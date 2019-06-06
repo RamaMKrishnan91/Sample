@@ -1,4 +1,5 @@
 <?php
+//Changes
 /**
  * The base configuration for WordPress
  *
