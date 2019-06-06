@@ -1,5 +1,6 @@
 <?php
 // 1st Changes
+// 2nd Changes
 /**
  * The base configuration for WordPress
  *
